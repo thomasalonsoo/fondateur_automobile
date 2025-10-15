@@ -43,7 +43,7 @@ Nationalité
 Origine sociale et familiale (milieu, profession des parents, statut économique) 
 Formation (études techniques, ingénierie, commerce, autodidacte, etc.)
 Expériences professionnelles (avant ou après la fondation de la marque)
-Réseaux et collaborations (associés, mécènes, partenaires techniques, investisseurs)
+Réseaux et collaborations (associés, mécènes, partenaires techniques investisseurs)
 Publications / brevets / communications (liés à l’automobile ou à d’autres domaines)
 Philosophie entrepreneuriale ou technique (vision de la marque, valeurs, innovations défendues)
 Date et lieu de décès (si pertinent)
@@ -61,7 +61,7 @@ Réseaux industriels (partenariats, sous-traitants, groupes, alliances technique
 
 # Lieu
 Nom du lieu (ville, région, pays)
-Type de lieu (usine, atelier, siège, circuit automobile, école, etc.)
+Type de lieu (usine, atelier, siège, circuit automobile, école, etc.
 Coordonnées géographiques
 Période d’activité liée au fondateur ou à la marque 
 Importance historique (lieu de création, d’innovation, de course, etc.)

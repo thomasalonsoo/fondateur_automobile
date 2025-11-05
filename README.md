@@ -90,3 +90,9 @@ Marque / entreprise a produit → Innovation / modèle
 Innovation / modèle a été conçue par → Fondateur ou Organisation 
 Innovation / modèle a été présentée à → Lieu (salon, course, exposition)
 Innovation / modèle a été publiée / brevetée en → Année / lieu
+
+## Draw.io integration
+
+This repository supports storing diagrams created with diagrams.net (Draw.io). Place `.drawio` source files under the `diagrams/` folder. A GitHub Actions workflow (`.github/workflows/drawio-export.yml`) automatically exports `.drawio` files to PNG and SVG in `diagrams/exports` on push. You can also trigger the workflow manually from the Actions tab on GitHub.
+
+See `diagrams/README.md` for usage notes and conventions.

@@ -1,0 +1,35 @@
+name: Export Draw.io diagrams
+
+on:
+  push:
+    paths:
+      - 'diagrams/**.drawio'
+      - 'diagrams/**.drawio.png'
+      - 'diagrams/**.drawio.svg'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  export-diagrams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Export diagrams (PNG + SVG)
+        uses: jgraph/drawio-action@v1
+        with:
+          files: 'diagrams/**/*.drawio'
+          output: 'diagrams/exports'
+          format: 'png,svg'
+          exportAllPages: true
+
+      - name: Commit exported diagrams
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add diagrams/exports || true
+          git commit -m "chore(diagrams): export draw.io diagrams" || echo "No changes to commit"
+          git push || echo "Push failed (maybe permissions)"

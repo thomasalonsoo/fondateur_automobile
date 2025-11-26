@@ -2,6 +2,8 @@
 
 Ce projet à pour but d'étudier la population des fondateurs de marques automobiles
 
+https://fr.wikipedia.org/wiki/Constructeur_automobile#Liste_des_constructeurs_automobiles
+
 ## Problématique
 
 En adoptant une démarche exploratoire, il s’agit de proposer un modèle du champ industriel et entrepreneurial de l’automobile (en s’appuyant sur les notions de champ et d’habitus de Pierre Bourdieu).

@@ -7,7 +7,7 @@ Ce projet vise à étudier l’évolution des parcours, des pratiques et des mod
 
 * [Problématique et questionnement](https://github.com/thomasalonsoo/fondateur_automobile/blob/main/Probl%C3%A9matique%20est%20questionnement)
 * [Listes des pilotes](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Listes%20des%20pilotes)
-* [Catalogue des informations](Catalogue-des-informations.md)
+* [Catalogue des informations](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Catalogue_des_informations.md)
 
 ### Création de la base de données
 

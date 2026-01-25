@@ -12,3 +12,13 @@ Observe-t-on une homogénéisation progressive des trajectoires sociales, au pro
 À partir de quand peut-on parler d’une standardisation des parcours vers la Formule 1 (académies, filières junior, contrats de développement) ?
 Comment évoluent les compétences valorisées (pilotage pur, travail technique, communication, image publique) et comment ces transformations influencent-elles les profils recrutés ?
 
+## Aspects de l’information à collecter
+- Origines géographiques et familiales des pilotes, profession et ressources des parents
+- Formation sportive (karting, formules de promotion)
+- Encadrement et apprentissages techniques (préparation physique, mentale, travail en simulateur)
+- Expériences sportives successives avant et en Formule 1
+- Appartenance à des institutions ou programmes (académies de pilotes, fédérations, écuries)
+- Activités en dehors de la compétition (médias, sponsoring, engagements personnels)
+- Résultats sportifs et productions professionnelles (palmarès, performances, rôles techniques)
+- Relations, correspondances professionnelles et réseaux (managers, ingénieurs, sponsors, écuries)
+

@@ -1,9 +1,9 @@
 ## Problématique et questionnement
 
-#Problématique
+## Problématique
 En adoptant une démarche exploratoire, il s’agit de proposer un modèle du champ des pilotes automobile (en s’appuyant sur les notions de champ et d’habitus de Pierre Bourdieu). L’objectif est de construire une représentation simplifiée de la structure du monde des pilotes de formule 1, c’est-à-dire des dynamiques sociales, économiques et culturelles qui le composent. L’analyse portera sur les profils socio-démographiques des pilotes, leurs trajectoires et réseaux d’appartenance (parcours, partenaires, classes sociales, écuries, etc.), afin de mettre en évidence les formes de capital (économique, social, culturel, symbolique) mobilisées dans le parcours d'un pilote automobile. Par ailleurs, dans le cadre d'une approche prosopographique, nous collecterons systématiquement les caractéristiques des agents afin de mettre en évidence des profils biographiques et d'activité.
 
-#Questions de recherche
+## Questions de recherche
 Existe-t-il une corrélation entre les origines sociales ou géographiques des pilotes et leur succès dans l'élite du pilotage automobile mondial?
 Observe-t-on des spécificités générationnelles ou nationales dans les parcours (ex. : pilotes italiens, issus de familles riches, pilote de père en fils, etc.) ?
 Comment a évolué l’appartenance à des organisations ou institutions (centre d'entraienements, sponsoring, grands groupes industriels, etc.) au fil du temps ?

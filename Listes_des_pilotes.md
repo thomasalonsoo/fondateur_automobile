@@ -2,5 +2,3 @@ Listes des pilotes de F1
 
 [Listofformula1drivers](https://en.wikipedia.org/wiki/List_of_Formula_One_drivers) - en anglais
 [Liste des pilotes de formule 1](https://fr.wikipedia.org/wiki/Liste_des_pilotes_de_Formule_1) - en français
-
-[Site officiel de la Formule 1](https://www.formula1.com)

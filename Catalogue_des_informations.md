@@ -23,6 +23,7 @@ Objets (avec leurs propriétés)
 
 # Prix
 - nom
+- type
 - année du prix
 - lieu du prix
 

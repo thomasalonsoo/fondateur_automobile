@@ -22,7 +22,7 @@ Objets (avec leurs propriétés)
 - coordonnées géographiques
 
 # Prix
-- référence bibliographique
+- nom
 - année du prix
 - lieu du prix
 

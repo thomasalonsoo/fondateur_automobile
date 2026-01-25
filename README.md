@@ -1,37 +1,32 @@
-# fondateur_automobile
+# Pilotes de formule 1
 
-Ce projet à pour but d'étudier la population des fondateurs de marques automobiles
+Ce projet à pour but d'étudier la population des pilotes de formule 1
 
-https://fr.wikipedia.org/wiki/Constructeur_automobile#Liste_des_constructeurs_automobiles
+https://en.wikipedia.org/wiki/List_of_Formula_One_drivers
 
 ## Problématique
 
-En adoptant une démarche exploratoire, il s’agit de proposer un modèle du champ industriel et entrepreneurial de l’automobile (en s’appuyant sur les notions de champ et d’habitus de Pierre Bourdieu).
-L’objectif est de construire une représentation simplifiée de la structure du monde des fondateurs de marques automobiles — c’est-à-dire des dynamiques sociales, économiques et culturelles qui le composent — ainsi que de son évolution dans le temps, depuis les pionniers du début du XXe siècle jusqu’aux créateurs contemporains.
-L’analyse portera sur les profils socio-démographiques des fondateurs, leurs trajectoires professionnelles et réseaux d’appartenance (partenaires, ingénieurs, investisseurs, institutions industrielles, etc.), afin de mettre en évidence les formes de capital (économique, social, culturel, symbolique) mobilisées dans la création d’une marque automobile.
-L’étude cherchera également à modéliser l’évolution du champ automobile : comment il se structure autour d’écoles d’ingénieurs, de traditions nationales (italienne, allemande, américaine, japonaise, etc.) ou de grands mouvements techniques et esthétiques (modernisme, design industriel, électrification, etc.).
-Enfin, dans une approche prosopographique, il s’agira de collecter systématiquement les caractéristiques individuelles et biographiques des fondateurs afin d’identifier des profils typiques : ingénieur-entrepreneur, héritier industriel, autodidacte visionnaire, designer-innovateur, etc.
+En adoptant une démarche exploratoire, il s’agit de proposer un modèle du champ des pilotes automobile (en s’appuyant sur les notions de champ et d’habitus de Pierre Bourdieu). L’objectif est de construire une représentation simplifiée de la structure du monde des pilotes de formule 1, c’est-à-dire des dynamiques sociales, économiques et culturelles qui le composent.
+L’analyse portera sur les profils socio-démographiques des pilotes, leurs trajectoires et réseaux d’appartenance (parcours, partenaires, classes sociales, écuries, etc.), afin de mettre en évidence les formes de capital (économique, social, culturel, symbolique) mobilisées dans le parcours d'un pilote automobile. Par ailleurs, dans le cadre d'une approche prosopographique, nous collecterons systématiquement les caractéristiques des agents afin de mettre en évidence des profils biographiques et d'activité.
 
 ## Questions de recherche
-- Existe-t-il une corrélation entre les origines sociales ou géographiques des fondateurs et leur succès entrepreneurial ou leur type d’entreprise (luxe, populaire, sportive, technologique) ? 
-- Observe-t-on des spécificités générationnelles ou nationales dans les parcours (ex. : ingénieurs en Allemagne, entrepreneurs familiaux en Italie, self-made men aux États-Unis) ?
-- Quelle est la relation entre les formations techniques (ingénierie, design, commerce, etc.) et les caractéristiques socio-démographiques des fondateurs ?
-- Comment a évolué l’appartenance à des organisations ou institutions (écoles d’ingénieurs, clubs automobiles, armée, grands groupes industriels) au fil du temps ?
-- Quels réseaux de relations (partenariats, mentorats, collaborations techniques, filiales industrielles) structurent le champ automobile et son évolution ? 
-- Peut-on repérer des filiations intellectuelles ou techniques — par exemple, des écoles de pensée en ingénierie, des lignées d’innovation ou des transferts entre constructeurs ?
-- Comment les facteurs sociaux et structurels influencent-ils la philosophie du design ou la stratégie de marque (par exemple, innovation, performance, prestige, accessibilité) ?
+- Existe-t-il une corrélation entre les origines sociales ou géographiques des pilotes et leur succès dans l'élite du pilotage automobile mondial? 
+- Observe-t-on des spécificités générationnelles ou nationales dans les parcours (ex. : pilotes italiens, issus de familles riches, pilote de père en fils, etc.) ?
+- Comment a évolué l’appartenance à des organisations ou institutions (centre d'entraienements, sponsoring, grands groupes industriels, etc.) au fil du temps ?
+- Quels réseaux de relations (partenariats, sponsoring, collaborations techniques, filiales) structurent la carrière des pilotes et leurs évolutions ?
+- Observe-t-on une homogénéisation progressive des trajectoires sociales, au profit de profils issus des classes supérieures ou de familles déjà intégrées au monde du sport automobile ?
+- À partir de quand peut-on parler d’une standardisation des parcours vers la Formule 1 (académies, filières junior, contrats de développement) ?
+- Comment évoluent les compétences valorisées (pilotage pur, travail technique, communication, image publique) et comment ces transformations influencent-elles les profils recrutés ?
 
 ## Aspects de l’information à collecter
-Origines géographiques et familiales des fondateurs (milieu social, profession des parents, contexte économique du pays d’origine)
-Formation (études techniques, commerciales ou autodidactes)
-Expériences professionnelles antérieures (mécanicien, ingénieur, pilote, entrepreneur dans un autre secteur, etc.)
-Conditions et motivations de la création de la marque (contexte économique, opportunité technologique, rupture industrielle, héritage familial, etc.)
-Appartenance à des institutions (écoles, clubs automobiles, armée, réseaux industriels, etc.)
-Réseaux de collaboration (associés, investisseurs, ingénieurs, designers, etc.)
-Philosophie de la marque (valeurs, orientation technologique ou esthétique, publics visés)
-Évolution de la marque dans le temps (succession, fusion, internationalisation, innovations marquantes)
-Publications, brevets ou communications des fondateurs sur l’automobile
-Correspondances, relations d’affaires et réseaux internationaux
+- Origines géographiques et familiales des pilotes, profession et ressources des parents
+- Formation sportive (karting, formules de promotion)
+- Encadrement et apprentissages techniques (préparation physique, mentale, travail en simulateur)
+- Expériences sportives successives avant et en Formule 1
+- Appartenance à des institutions ou programmes (académies de pilotes, fédérations, écuries)
+- Activités en dehors de la compétition (médias, sponsoring, engagements personnels)
+- Résultats sportifs et productions professionnelles (palmarès, performances, rôles techniques)
+- Relations, correspondances professionnelles et réseaux (managers, ingénieurs, sponsors, écuries)
 
 
 ## Catalogue-des-informations.md

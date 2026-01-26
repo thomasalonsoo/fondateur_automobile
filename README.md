@@ -11,8 +11,8 @@ Ce projet vise à étudier l’évolution des parcours, des pratiques et des mod
 
 ### Création de la base de données
 
-*  [Modèle conceptuel](../MCD_to_database_example.png)
-*  [Commentaire du modèle conceptuel](Modèle-conceptuel-commentaire.md)
+*  [Modèle conceptuel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_concpetuel_commentaire.md)
+*  [Commentaire du modèle conceptuel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_concpetuel_commentaire.md).
 *  [Modèle logique ou relationnel](Modèle-logique-ou-relationnel.md)
 
 ### Récupération et analyse de données existantes

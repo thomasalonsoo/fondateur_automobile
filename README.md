@@ -15,29 +15,26 @@ Ce projet vise à étudier l’évolution des parcours, des pratiques et des mod
 *  [Commentaire du modèle conceptuel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_concpetuel_commentaire.md)
 *  [Modèle logique ou relationnel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_logique_ou_relationnel.md)
 
-### Récupération et analyse de données existantes
 
-* [Explorer DBpedia](DBpedia/DBpedia_explorer.md)
-* [Importer les données de DBpedia](DBpedia/DBpedia_importer_dans_base_personnelle.md)
-* [Visualiser les données de DBpedia](DBpedia/DBpedia_analyser_donnees_importees.md)
+1. Page d'accueil du projet Github avec table des matières, renvoyant aux autres pages du dossier
+
+2. Une demi-page de présentation de projet de recherche et des questions de recherche envisagées
+
+3. Sources numériques avec listes de personnes sur lesquels on va collecter l'information dans la logique d’une démarche prosopographique
+
+4. Catalogue détaillé des informations avec exemples
+
+5. Modèle conceptuel au format drawio accompagné d'une page d'explications et d’un export au format .png
+
+6. Base de données SQLite reproduisant le modèle conceptuel
+
+7. Une dizaine de lignes de données pour chaque table produite manuellement afin de tester si la structure de la base de données (et donc la conceptualisation adoptée) correspond aux besoins de la recherche et montrer la capacité de gérer les information sous forme de données numériques structurées
+
+8. Le modèle conceptuel et la base de données doivent comprendre l’appartenance de personnes à des organisations.
+
+9. Une ou deux vues SQL qui rendent permanentes et directement accessibles une ou deux requêtes SQL
+
+10. Un fichier CSV exporté de la base de données grâce à une requète SQL, ou à une vue, comprenant éventuellement une visualisation dans un tableur (Excel ou Calc).
 
 
-
-### Système d'information
-
-[Table des matières](Table_des_pages.md) qui liste toutes les pages du wiki
-
-
-### Analyse des données de Wikidata (notebooks Python)
-* [Distribution des naissances dans le temps](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_distribution_naissances.ipynb)
-* [Nationalités: production et codage des données](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_nationalite_production.ipynb)
-* [Nationalités: analyse des données](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_nationalite_analyse.ipynb)
-* [Genres: analyse des données](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_genre_analyse.ipynb)
-* [Occupations: production et codage des données](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_occupations_production.ipynb)
-* [Occupations: analyse des données](https://github.com/Sciences-historiques-numeriques/astronomers/blob/main/notebooks_jupyter/wikidata_exploration/wdt_occupations_analyse.ipynb)
- 
-
-### Résultats
-
-* [Analyse de la distribution dans le temps et l'espace des naissances](results/birth_places_spatiotemporal_distribution.md)
 

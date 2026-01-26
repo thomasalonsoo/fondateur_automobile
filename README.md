@@ -13,7 +13,7 @@ Ce projet vise à étudier l’évolution des parcours, des pratiques et des mod
 
 *  [Modèle conceptuel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_conceptuel_image.md)
 *  [Commentaire du modèle conceptuel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_concpetuel_commentaire.md)
-*  [Modèle logique ou relationnel](Modèle-logique-ou-relationnel.md)
+*  [Modèle logique ou relationnel](https://github.com/thomasalonsoo/Pilotes_F1/blob/main/Modele_logique_ou_relationnel.md)
 
 ### Récupération et analyse de données existantes
 

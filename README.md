@@ -1,7 +1,7 @@
 # Les pilotes de formule 1
 
 
-Ce projet vise à étudier l’évolution des parcours, des pratiques et des modes de sélection des pilotes de **Formule 1**, en les replaçant dans leurs contextes géographiques, sociaux et économiques, afin d’analyser la structure, les hiérarchies et les dynamiques du champ professionnel du pilotage automobile de haut niveau.    
+Ce projet vise à étudier l’évolution des parcours, des pratiques, des écuries et des modes de sélection des pilotes de **Formule 1**, en les replaçant dans leurs contextes géographiques, sociaux et économiques, afin d’analyser la structure, les hiérarchies et les dynamiques du champ professionnel du pilotage automobile de haut niveau.    
 
 ###  Phase exploratoire
 
